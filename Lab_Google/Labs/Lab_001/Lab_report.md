@@ -6,13 +6,13 @@
 - **Completion Date:** 2026-05-24
 - **Status:** ✅ Completed
 
-## 📋 Description
+##  Description
 
 
-## 🎯 Objectives
+##  Objectives
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Google Cloud Service
 
 ## 📝 Steps Taken
