@@ -1,11 +1,16 @@
 # Google IT Support
 
-This repository contains my learning progress from the Google IT Support Professional Certificate.
+This repository documents my learning progress in IT support fundamentals.
 
-## Contents
-- Weeks
-- Notes
-- Labs
+## Topics Covered
 
-## Goal
-Build a strong foundation in IT and document my progress.
+- File and directory management
+- Command line usage (Linux & Windows)
+- User and permission management
+- Software installation and package management
+
+## Tools
+
+- Linux
+- Windows CLI
+- Bash
