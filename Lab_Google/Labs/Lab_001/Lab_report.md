@@ -15,4 +15,4 @@
 ##  Technologies Used
 - Google Cloud Service
 
-## 📝 Steps Taken
+##  Steps Taken
