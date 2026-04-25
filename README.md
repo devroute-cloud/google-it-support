@@ -1,4 +1,4 @@
-# Google IT Support
+# Google IT support specialist
 
 This repository documents my learning progress in IT support fundamentals.
 
