@@ -77,7 +77,7 @@
 8. Run the installer in silent mode:
   - cmd.exe /c $OUTPUT_FILE /S
 9. Check that the software has been installed correctly:
-  -Get-Package -Name *vlc*
+  - Get-Package -Name *vlc*
 
 ### Uninstalling software using Windows PowerShell.
 1. Select PowerShell with Administrator.
