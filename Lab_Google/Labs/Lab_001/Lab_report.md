@@ -73,7 +73,7 @@
 6. Set the local download folder (example):
   - $DOWNLOAD_DIR = "C:\Users\qwiklabs\Downloads\" $OUTPUT_FILE = $DOWNLOAD_DIR + $FILE
 7. Download the installer file:
-  -(New-Object System.Net.WebClient).DownloadFile($URL, $OUTPUT_FILE)
+  - (New-Object System.Net.WebClient).DownloadFile($URL, $OUTPUT_FILE)
 8. Run the installer in silent mode:
   - cmd.exe /c $OUTPUT_FILE /S
 9. Check that the software has been installed correctly:
