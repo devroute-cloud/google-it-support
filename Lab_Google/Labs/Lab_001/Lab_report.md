@@ -9,7 +9,7 @@
 
 ## 📉Description
 
-#### In this Laboratory, you learned to install and uninstall software for the GUI and CLI of Windows.
+### In this Laboratory, you learned to install and uninstall software for the GUI and CLI of Windows.
 - You'll work with compressed files.
 - You'll install a text editor called = SUBLIME TEXT.
 - You'll extract them and then compress them again into .tar. files.
@@ -18,7 +18,7 @@
 
 ## ✅Objectives
 
-#### Interact with.
+### Interact with.
 - Install Sublime Text, using the GUI of Windows.
 - Estract files with 7-Zip and PowerShell.
 - Install VLC with PowerShell on Windows.
@@ -35,7 +35,7 @@
 
 ## 👨‍💻Steps Taken
 
-#### Install Sublime Text.
+### Install Sublime Text.
 ° It is used to write, edit, and organize code in multiple programming languages.
 1. Visit the Website: https://www.sublimetext.com.
 2. Download the New Version to your Local Disc.
@@ -43,13 +43,13 @@
 4. Install.
 5. Sublime will be ready.
 
-#### How to extract a file with 7-Zip.
+### How to extract a file with 7-Zip.
 ° 7-Zip compresses and decompresses files in multiple formats.
 1. Select the file. Then right-click
 2. Select the option 7-Zip. Then extract here.
 3. The different files will be ready on your PC.
 
-#### How to compress a file with PowerShell.
+### How to compress a file with PowerShell.
 ° Compressing a file is mainly done to reduce its size.
 - This is a Little Example: We will search files: “Earth,” “Mercury,” and “Venus.”
 - Then 👇.
@@ -58,7 +58,7 @@
 3. We will create a file .Zip called "Planets.Zip" using this command: Compress-Archive -Path Earth, Mercury, Venus Planets.zip
 4. The compress will be ready.
 
-#### Install and Uninstall software using the Windows CLI.
+### Install and Uninstall software using the Windows CLI.
 ° It is primarily used to automate, accelerate, and centrally manage applications, overcoming the limitations of the traditional graphical interface 
 - Then 👇.
 1. Select PowerShell with Administrator.
@@ -79,7 +79,7 @@
 9. Check that the software has been installed correctly:
   -Get-Package -Name *vlc*
 
-#### Uninstalling software using Windows PowerShell.
+### Uninstalling software using Windows PowerShell.
 1. Select PowerShell with Administrator.
 2. Run the command to uninstall the program (example: GIMP):
    - cmd.exe /c "C:\Program Files\GIMP 2\uninst\unins000.exe" /VERYSILENT /NORESTART
